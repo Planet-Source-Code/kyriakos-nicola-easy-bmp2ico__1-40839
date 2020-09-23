@@ -1,0 +1,9 @@
+Hi,
+This is a small example showing how to convert bitmap images to icon images.
+Easy to make Vary Easy to use...
+
+If you have any errors on the program or you want to make a suggestion on it
+please contact me at kyriakosnicola@yahoo.com
+
+By the way...
+Thanks for downloading this fragment of code.
